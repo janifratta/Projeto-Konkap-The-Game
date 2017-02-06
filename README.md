@@ -1,7 +1,7 @@
 # Projeto-Konkap-The-Game
 game criado para a 1° gamejam na Fatenp (24/05 a 25/05/2016)
 
->>PLAYER<<
+>>PLAYER
 
 public class Player : MonoBehaviour {
     Rigidbody2D rb;
@@ -38,7 +38,7 @@ public class Player : MonoBehaviour {
 	}
 }
 
->>GAMEMAKER<<
+>>GAMEMAKER
 
 public class MecanicasGamePlay : MonoBehaviour {
 
@@ -60,7 +60,7 @@ public class MecanicasGamePlay : MonoBehaviour {
     }
 }
 
->>INIMIGOS<<
+>>INIMIGOS
 
 public class Inimigos : MonoBehaviour {
 
@@ -83,7 +83,7 @@ public class Inimigos : MonoBehaviour {
     }
 }
 
->>CONTADORVIDA<<
+>>CONTADORVIDA
 
 public class ControleVida : MonoBehaviour {
 
